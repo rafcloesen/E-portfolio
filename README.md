@@ -19,7 +19,7 @@ Ik ben huidig een student aan de UCLL met Leuven als hoofdverblijfplaats.
 
 ## Curriculum Vitae
 
-[Tijdelijke CV](https://github.com/rafcloesen/E-portfolio/tijdelijke-CV.pdf)
+[Tijdelijke CV](https://github.com/rafcloesen/E-portfolio/blob/master/tijdelijke-CV.pdf)
 
 ## Contactgegevens
 
